@@ -80,7 +80,7 @@ Remainder of wages, after spending on basic needs by European countries.
 
 Interactive map [here](https://tinyurl.com/2cwr2xmv)
 
-More data. 
+### More data. 
 
 In the extended version of this pilot report you will get information on (1) salary levels in the other 72 economic segments, (2) a detailed analysis of business expenses by category, an analysis of "quality of life" according to (3) income quartile, (4) family composition, (5) education level and (6) experience. 
 
