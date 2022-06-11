@@ -76,6 +76,6 @@ The maximum difference is in Norway (38.7k euros per year), Ireland (33.7k) and 
 
 Remainder of wages, after spending on basic needs by European countries. 
 
-
+![](https://github.com/InsidePanoptic/Reports/blob/main/img/The%20balance%20of%20wages%2C%20after%20spending%20on%20basic%20needs.png)
 
 Interactive map [here](https://tinyurl.com/2cwr2xmv)
