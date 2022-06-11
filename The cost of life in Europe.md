@@ -18,7 +18,7 @@ It makes more sense to start with the German or UK markets where 600K+ developer
 
 Find out more uses for the data we generate by subscribing to our [Facebook](https://www.facebook.com/Panoptic-Insights-100224529382600), [Linkedin](https://www.linkedin.com/company/panopticinsights) or [Twitter](https://twitter.com/insidepanoptic).
 
-If you would like to work together to collect and analyse data, email us: site@panopticinsights.com 
+If you would like to work together to collect and analyse data, email us: support@panopticinsights.com
 
 ### The cost of living in Europe. 
 
@@ -79,3 +79,10 @@ Remainder of wages, after spending on basic needs by European countries.
 ![](https://github.com/InsidePanoptic/Reports/blob/main/img/The%20balance%20of%20wages%2C%20after%20spending%20on%20basic%20needs.png)
 
 Interactive map [here](https://tinyurl.com/2cwr2xmv)
+
+More data. 
+
+In the extended version of this pilot report you will get information on (1) salary levels in the other 72 economic segments, (2) a detailed analysis of business expenses by category, an analysis of "quality of life" according to (3) income quartile, (4) family composition, (5) education level and (6) experience. 
+
+If you have any special requests for an extended report or parts of it, please send us an email: support@panopticinsights.com 
+
